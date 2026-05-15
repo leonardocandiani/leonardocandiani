@@ -166,8 +166,7 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 ## Stats
 
 <div align="center">
-  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=leonardocandiani&cc=00d9ff&tc=ffffff&ic=00d9ff&bc=0d1117" />
-  <img height="180" src="https://streak-stats.demolab.com?user=leonardocandiani&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00d9ff" />
+  <img src="https://streak-stats.demolab.com?user=leonardocandiani&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00d9ff" />
 </div>
 
 <br>
@@ -175,7 +174,7 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 ## Atividade
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00d9ff/leonardocandiani" alt="Contribution chart de leonardocandiani" width="100%" />
+  <img src="https://ghchart.rshah.org/leonardocandiani" alt="Contribution chart de leonardocandiani" width="100%" />
 </div>
 
 <br>
