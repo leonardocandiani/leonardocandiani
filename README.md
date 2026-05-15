@@ -213,7 +213,6 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 <br>
 
 - 🤖 Rodo várias instâncias de Claude Code em paralelo (overclocked é o resultado disso virado guia)
-- ☕ Powered by café de Maringá
 - 🎯 Foco em **shipar fast > perfeição** — itero em produção com cliente real
 - 🦾 Construo agentes que operam **CRMs, WhatsApp, ligações e dashboards** simultaneamente
 - 🇧🇷 Tudo em PT-BR, com sotaque do interior do Paraná
