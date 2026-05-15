@@ -37,7 +37,7 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 <br clear="right"/>
 
-> **Filosofia**: shipear vence perfeição. Construo ferramentas pra resolver problema real do mercado, e depois descubro como escalar.
+> Shipar vence perfeição. Construo ferramentas pra resolver problema real do mercado, e depois descubro como escalar.
 
 <br>
 
@@ -217,10 +217,10 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 <br>
 
 - 🤖 Rodo várias instâncias de Claude Code em paralelo (overclocked é o resultado disso virado guia)
-- 🎯 Foco em **shipar fast > perfeição** — itero em produção com cliente real
-- 🦾 Construo agentes que operam **CRMs, WhatsApp, ligações e dashboards** simultaneamente
-- 🇧🇷 Tudo em PT-BR, com sotaque do interior do Paraná
-- 📚 Tudo o que aprendo vira [conteúdo no YouTube](https://youtube.com/@oleonardocandiani)
+- 🎯 Itero em produção com cliente real, sem ambiente de homologação enrolado
+- 🦾 Construo agentes que operam CRMs, WhatsApp, ligações e dashboards
+- 🇧🇷 Trabalho em PT-BR, com sotaque do interior do Paraná
+- 📚 O que aprendo vira [conteúdo no YouTube](https://youtube.com/@oleonardocandiani)
 
 </details>
 
