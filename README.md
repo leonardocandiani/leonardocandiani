@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://leonardocandiani.com.br">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Especialista+em+IA+e+Automa%C3%A7%C3%A3o;Construindo+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Cofundador+da+SixQuasar+%E2%80%A2+Criador+do+SixClaw;De+Maring%C3%A1+pro+mundo+%F0%9F%8C%8E" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Especialista+em+IA+e+Automa%C3%A7%C3%A3o;Construindo+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Cofundador+da+SixQuasar+%E2%80%A2+Criador+do+SixClaw;Operando+o+ecossistema+Proteauto+ponta+a+ponta;De+Maring%C3%A1+pro+mundo+%F0%9F%8C%8E" />
   </a>
 </div>
 
@@ -21,125 +21,158 @@
 
 ## Sobre mim
 
-<img align="right" alt="Leonardo Candiani" src="https://github.com/leonardocandiani.png?size=280" width="220" style="border-radius: 50%;" />
+<img align="right" alt="Leonardo Candiani" src="https://github.com/leonardocandiani.png?size=280" width="220" />
 
 ```yaml
 nome:        Leonardo Candiani
 papel:       Especialista em IA e Automação
 empresa:     SixQuasar (cofundador)
 produto:     SixClaw — orquestração de agentes
-operações:   SegSmart, Proteauto
+operações:   Proteauto, SegSmart, IACall
 local:       Maringá, PR — Brasil
 foco:        agentes que conversam, decidem e fecham negócio
-estudando:   agentic systems, RAG, orquestração de LLMs
+estudando:   agentic systems, RAG, voice agents, MCP
 conteúdo:    youtube.com/@oleonardocandiani
 ```
 
 <br clear="right"/>
 
-## O que estou construindo
+> **Filosofia**: shipear vence perfeição. Construo ferramentas pra resolver problema real do mercado, e depois descubro como escalar.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### SixQuasar
-Agência de IA e automação focada em **agentes conversacionais** que operam no WhatsApp. Atendimento, vendas e suporte automatizados ponta a ponta.
+## Start Here
 
-</td>
-<td width="50%" valign="top">
+Os destaques do que estou tocando agora:
 
-### SixClaw
-Plataforma própria de **orquestração de agentes** que liga IA a fluxos de venda e atendimento. O motor por trás das operações.
+- 🦾 **SixClaw** — plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
+- 🛡️ **[Cluster Proteauto](#cluster-proteauto)** — proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
+- 💬 **SegsClaw** — multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
+- 📱 **UAZAPI CLI** — CLI agent-first sobre o WhatsApp API da UAZAPI · 105+ endpoints · pipe-friendly
+- 🎙️ **Mininoweb** — Jarvis-style voice agent web UI (Next.js + ElevenLabs WebRTC + Three.js)
+- 📚 **Overclocked** — guia definitivo de tuning do Claude Code, baseado no source code real
+- 🚛 **SDR Proteauto** — monorepo arquitetura Cote.Zap (rules + equalização pipeline 12 camadas + auto-review CI/CD)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### SegSmart
-Operação de **seguros automatizada** por agentes de IA. Cotação, comparação e venda sem fricção humana.
+## <a name="cluster-proteauto"></a>Cluster Proteauto
 
-</td>
-<td width="50%" valign="top">
+Operação de proteção veicular construída sobre agentes de IA:
 
-### Proteauto
-**Proteção veicular** com atendimento e cotação 100% conduzidos por IA. Velocidade e escala em um mercado tradicional.
+| Repo | O que faz |
+|------|-----------|
+| 🛡️ **proteauto-crm** | CRM especializado pra proteção veicular |
+| 🛒 **proteauto-cliente** | Cotação automática · proteção veicular pra caminhões |
+| 📸 **proteauto-admin** | PWA de vistoria veicular digital · captura guiada de fotos |
+| 📺 **dashboard-proteauto** | Dashboard gamificado pra TV · acompanhamento de vendas |
+| 📊 **dashboard-tracker-proteauto** | Monitoramento em tempo real da frota |
+| 🚛 **sdr-proteauto** | Monorepo SDR arquitetura Cote.Zap |
+| 📰 **sdr-advertorial** | Portal advertorial · funil SDR caminhoneiros · PIX inline |
+| 👥 **dashboard-representantes-proteauto** | Acompanhamento de representantes |
+| 🦂 **openclaw-proteauto** | Stack OpenClaw aplicada ao cluster |
 
-</td>
-</tr>
-</table>
+<br>
+
+## Agents, Voice & Multi-Channel
+
+- 💬 **segsclaw** — multi-agent WhatsApp/Telegram platform (Proteauto)
+- 🎙️ **mininoweb** — Jarvis-style voice agent web UI (Three.js + ElevenLabs WebRTC)
+- 🗣️ **alexa-minino-jarvis** — Alexa Skill · voz ElevenLabs · classifier · background actions via WhatsApp
+- 🤖 **zapmentor** + **zapmentor-cli** — mentoria e automação via WhatsApp
+- 📞 **call-flow-insight-dashboard** — análise de fluxo de chamadas
+- 📞 **call-cadence-automator** — automação de cadência de ligações
+
+<br>
+
+## CLIs Agent-First
+
+Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
+
+- 📱 **uazapi-cli** — UAZAPI WhatsApp API · 105+ endpoints · pipe-friendly
+- 📊 **moskit-cli** — Moskit CRM V2 · análise gerencial · Bun + Commander + AXI
+- 📣 **metaads-cli** — Meta Marketing API (Graph v21) · read-only by design · profiles cross-company
+- ☎️ **pabx-cli** — PABX CLI
+
+<br>
+
+## Dashboards & Analytics
+
+- 💼 **dashboard-segsmart** + **dashboard-segsmart-saas** — vendas SegSmart Web Plus + SaaS
+- 📈 **hinova-api** — Hinova SGA API mirror + dashboard (Next.js + Supabase + Python sync)
+- 🚛 **antt-dashboard** — análise ANTT
+- 📷 **instainsight** — Instagram insights
+
+<br>
+
+## Tools & Experimentos
+
+- 📚 **overclocked** — Claude Code tuning baseado no source code real
+- 🏋️ **ranking-whatsapp** — fitness gamificado pra grupos de WhatsApp
+- 🕷️ **speedio-scraper** — scraper híbrido Speedio (API + Puppeteer)
+- 📜 **prompt-vendedoras** — biblioteca de prompts pra vendas
+- 🇧🇷 **brazil-x402-apis** — coleção x402 (HTTP 402) brasileira
+- 🧹 **lead-whisperer-csv-cleaner** — limpeza inteligente de CSV de leads
+- 🔧 **n8n-backup** — backup auto de workflows n8n
 
 <br>
 
 ## Stack do dia a dia
 
-<details open>
-<summary><b>Linguagens</b></summary>
-<br>
+#### Linguagens
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</details>
+#### Frameworks & Runtimes
 
-<details open>
-<summary><b>Frameworks & Runtimes</b></summary>
-<br>
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+#### Dados & Infra
 
-</details>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-<details open>
-<summary><b>Dados & Infra</b></summary>
-<br>
+#### IA & Agentes
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
-</details>
+#### Mensageria & Voice
 
-<details open>
-<summary><b>IA & Agentes</b></summary>
-<br>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Flowise](https://img.shields.io/badge/Flowise-7C3AED?style=for-the-badge&logo=flowdock&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Mensageria & WhatsApp</b></summary>
-<br>
-
-![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![WAHA](https://img.shields.io/badge/WAHA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![WhatsApp Business](https://img.shields.io/badge/WA%20Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</details>
+![UAZAPI](https://img.shields.io/badge/-UAZAPI-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Evolution API](https://img.shields.io/badge/-Evolution%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/-WA%20Business-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 <br>
 
 ## Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leonardocandiani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocandiani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardocandiani&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardocandiani&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardocandiani&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardocandiani&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -151,7 +184,7 @@ Operação de **seguros automatizada** por agentes de IA. Cotação, comparaçã
 ## Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardocandiani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardocandiani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&radius=8&custom_title=Contribuições+nos+últimos+12+meses" />
 </div>
 
 <br>
@@ -168,22 +201,38 @@ Operação de **seguros automatizada** por agentes de IA. Cotação, comparaçã
 
 <div align="center">
   <a href="https://leonardocandiani.com.br">
-    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=00d9ff" />
+    <img src="https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=safari&logoColor=00d9ff" />
   </a>
   <a href="https://instagram.com/leonardocandiani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@oleonardocandiani">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://wa.me/5544998893474">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
 <br>
 
-<!-- Quote do dia -->
+<details>
+<summary><b>Curiosidades</b></summary>
+
+<br>
+
+- 🤖 Rodo várias instâncias de Claude Code em paralelo (overclocked é o resultado disso virado guia)
+- ☕ Powered by café de Maringá
+- 🎯 Foco em **shipar fast > perfeição** — itero em produção com cliente real
+- 🦾 Construo agentes que operam **CRMs, WhatsApp, ligações e dashboards** simultaneamente
+- 🇧🇷 Tudo em PT-BR, com sotaque do interior do Paraná
+- 📚 Tudo o que aprendo vira [conteúdo no YouTube](https://youtube.com/@oleonardocandiani)
+
+</details>
+
+<br>
+
+<!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
