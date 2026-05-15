@@ -27,9 +27,9 @@
 nome:        Leonardo Candiani
 papel:       Especialista em IA e Automação
 empresa:     SixQuasar (cofundador)
-produto:     SixClaw — orquestração de agentes
+produto:     SixClaw · orquestração de agentes
 operações:   Proteauto, SegSmart, IACall
-local:       Maringá, PR — Brasil
+local:       Maringá, PR, Brasil
 foco:        agentes que conversam, decidem e fecham negócio
 estudando:   agentic systems, RAG, voice agents, MCP
 conteúdo:    youtube.com/@oleonardocandiani
@@ -45,14 +45,14 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 Os destaques do que estou tocando agora:
 
-- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** ⭐ **OPEN SOURCE** — skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git
-- 🦾 **SixClaw** — plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
-- 🛡️ **[Cluster Proteauto](#cluster-proteauto)** — proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
-- 💬 **SegsClaw** — multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
-- 📱 **UAZAPI CLI** — CLI agent-first sobre o WhatsApp API da UAZAPI · 105+ endpoints · pipe-friendly
-- 🎙️ **Mininoweb** — Jarvis-style voice agent web UI (Next.js + ElevenLabs WebRTC + Three.js)
-- 📚 **Overclocked** — guia definitivo de tuning do Claude Code, baseado no source code real
-- 🚛 **SDR Proteauto** — monorepo arquitetura Cote.Zap (rules + equalização pipeline 12 camadas + auto-review CI/CD)
+- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** ⭐ **OPEN SOURCE**: skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git
+- 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
+- 🛡️ **[Cluster Proteauto](#cluster-proteauto)**: proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
+- 💬 **SegsClaw**: multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
+- 📱 **UAZAPI CLI**: CLI agent-first sobre o WhatsApp API da UAZAPI · 105+ endpoints · pipe-friendly
+- 🎙️ **Mininoweb**: Jarvis-style voice agent web UI (Next.js + ElevenLabs WebRTC + Three.js)
+- 📚 **Overclocked**: guia definitivo de tuning do Claude Code, baseado no source code real
+- 🚛 **SDR Proteauto**: monorepo arquitetura Cote.Zap (rules + equalização pipeline 12 camadas + auto-review CI/CD)
 
 <br>
 
@@ -76,12 +76,12 @@ Operação de proteção veicular construída sobre agentes de IA:
 
 ## Agents, Voice & Multi-Channel
 
-- 💬 **segsclaw** — multi-agent WhatsApp/Telegram platform (Proteauto)
-- 🎙️ **mininoweb** — Jarvis-style voice agent web UI (Three.js + ElevenLabs WebRTC)
-- 🗣️ **alexa-minino-jarvis** — Alexa Skill · voz ElevenLabs · classifier · background actions via WhatsApp
-- 🤖 **zapmentor** + **zapmentor-cli** — mentoria e automação via WhatsApp
-- 📞 **call-flow-insight-dashboard** — análise de fluxo de chamadas
-- 📞 **call-cadence-automator** — automação de cadência de ligações
+- 💬 **segsclaw**: multi-agent WhatsApp/Telegram platform (Proteauto)
+- 🎙️ **mininoweb**: Jarvis-style voice agent web UI (Three.js + ElevenLabs WebRTC)
+- 🗣️ **alexa-minino-jarvis**: Alexa Skill · voz ElevenLabs · classifier · background actions via WhatsApp
+- 🤖 **zapmentor** + **zapmentor-cli**: mentoria e automação via WhatsApp
+- 📞 **call-flow-insight-dashboard**: análise de fluxo de chamadas
+- 📞 **call-cadence-automator**: automação de cadência de ligações
 
 <br>
 
@@ -89,31 +89,31 @@ Operação de proteção veicular construída sobre agentes de IA:
 
 Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 
-- 📱 **uazapi-cli** — UAZAPI WhatsApp API · 105+ endpoints · pipe-friendly
-- 📊 **moskit-cli** — Moskit CRM V2 · análise gerencial · Bun + Commander + AXI
-- 📣 **metaads-cli** — Meta Marketing API (Graph v21) · read-only by design · profiles cross-company
-- ☎️ **pabx-cli** — PABX CLI
+- 📱 **uazapi-cli**: UAZAPI WhatsApp API · 105+ endpoints · pipe-friendly
+- 📊 **moskit-cli**: Moskit CRM V2 · análise gerencial · Bun + Commander + AXI
+- 📣 **metaads-cli**: Meta Marketing API (Graph v21) · read-only by design · profiles cross-company
+- ☎️ **pabx-cli**: PABX CLI
 
 <br>
 
 ## Dashboards & Analytics
 
-- 💼 **dashboard-segsmart** + **dashboard-segsmart-saas** — vendas SegSmart Web Plus + SaaS
-- 📈 **hinova-api** — Hinova SGA API mirror + dashboard (Next.js + Supabase + Python sync)
-- 🚛 **antt-dashboard** — análise ANTT
-- 📷 **instainsight** — Instagram insights
+- 💼 **dashboard-segsmart** + **dashboard-segsmart-saas**: vendas SegSmart Web Plus + SaaS
+- 📈 **hinova-api**: Hinova SGA API mirror + dashboard (Next.js + Supabase + Python sync)
+- 🚛 **antt-dashboard**: análise ANTT
+- 📷 **instainsight**: Instagram insights
 
 <br>
 
 ## Tools & Experimentos
 
-- 📚 **overclocked** — Claude Code tuning baseado no source code real
-- 🏋️ **ranking-whatsapp** — fitness gamificado pra grupos de WhatsApp
-- 🕷️ **speedio-scraper** — scraper híbrido Speedio (API + Puppeteer)
-- 📜 **prompt-vendedoras** — biblioteca de prompts pra vendas
-- 🇧🇷 **brazil-x402-apis** — coleção x402 (HTTP 402) brasileira
-- 🧹 **lead-whisperer-csv-cleaner** — limpeza inteligente de CSV de leads
-- 🔧 **n8n-backup** — backup auto de workflows n8n
+- 📚 **overclocked**: Claude Code tuning baseado no source code real
+- 🏋️ **ranking-whatsapp**: fitness gamificado pra grupos de WhatsApp
+- 🕷️ **speedio-scraper**: scraper híbrido Speedio (API + Puppeteer)
+- 📜 **prompt-vendedoras**: biblioteca de prompts pra vendas
+- 🇧🇷 **brazil-x402-apis**: coleção x402 (HTTP 402) brasileira
+- 🧹 **lead-whisperer-csv-cleaner**: limpeza inteligente de CSV de leads
+- 🔧 **n8n-backup**: backup auto de workflows n8n
 
 <br>
 
