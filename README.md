@@ -175,7 +175,7 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 ## Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardocandiani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&radius=8&custom_title=Contribuições+nos+últimos+12+meses" />
+  <img src="https://ghchart.rshah.org/00d9ff/leonardocandiani" alt="Contribution chart de leonardocandiani" width="100%" />
 </div>
 
 <br>
