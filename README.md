@@ -174,7 +174,11 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 ## Atividade
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/leonardocandiani" alt="Contribution chart de leonardocandiani" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardocandiani/leonardocandiani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardocandiani/leonardocandiani/output/github-snake.svg" />
+    <img alt="Cobrinha comendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/leonardocandiani/leonardocandiani/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <br>
