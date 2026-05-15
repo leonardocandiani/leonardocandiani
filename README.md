@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00d9ff&height=220&section=header&text=Leonardo%20Candiani&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IA%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Tecnologia&descAlignY=60&descSize=18" />
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing -->
 <div align="center">
   <a href="https://leonardocandiani.com.br">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Especialista+em+IA+e+Automa%C3%A7%C3%A3o;Construindo+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Cofundador+da+SixQuasar+%E2%80%A2+Criador+do+SixClaw;Operando+o+ecossistema+Proteauto+ponta+a+ponta;De+Maring%C3%A1+pro+mundo+%F0%9F%8C%8E" />
@@ -166,17 +166,8 @@ Toolkit que uso no dia a dia, todos pipe-friendly e otimizados pra agentes:
 ## Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardocandiani&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardocandiani&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardocandiani&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardocandiani&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardocandiani&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00d9ff" />
+  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=leonardocandiani&cc=00d9ff&tc=ffffff&ic=00d9ff&bc=0d1117" />
+  <img height="180" src="https://streak-stats.demolab.com?user=leonardocandiani&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00d9ff" />
 </div>
 
 <br>
