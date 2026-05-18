@@ -1,8 +1,10 @@
 name: Generate Snake
 
 on:
+  # Roda de hora em hora enquanto o GitHub propaga o reindex
+  # TODO: reverter pra "0 */12 * * *" depois de 2026-05-19
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
   push:
     branches:
