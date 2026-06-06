@@ -37,7 +37,7 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 <br clear="right"/>
 
-> Shipar vence perfeição. Construo ferramentas pra resolver problema real do mercado, e depois descubro como escalar.
+> Colocar no ar vence perfeição. Construo ferramentas pra resolver problema real do mercado, e depois descubro como escalar.
 
 <br>
 
