@@ -45,8 +45,8 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 Os destaques do que estou tocando agora:
 
+- 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
 - 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp — boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
-- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** ⭐ **OPEN SOURCE**: skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git
 - 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
 - 🛡️ **[Cluster Proteauto](#cluster-proteauto)**: proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
 - 💬 **SegsClaw**: multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
