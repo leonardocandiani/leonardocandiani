@@ -45,6 +45,7 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 Os destaques do que estou tocando agora:
 
+- 📸 **[KRIT](https://github.com/leonardocandiani/krit)** ⭐ **OPEN SOURCE**: ferramenta nativa de screenshot e anotação pra macOS. Captura, anota, grava e copia num atalho só. Swift/AppKit puro, auto-update via Sparkle
 - 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
 - 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp — boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
 - 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
@@ -54,6 +55,23 @@ Os destaques do que estou tocando agora:
 - 🎙️ **Mininoweb**: Jarvis-style voice agent web UI (Next.js + ElevenLabs WebRTC + Three.js)
 - 📚 **Overclocked**: guia definitivo de tuning do Claude Code, baseado no source code real
 - 🚛 **SDR Proteauto**: monorepo arquitetura Cote.Zap (rules + equalização pipeline 12 camadas + auto-review CI/CD)
+
+<br>
+
+## Open Source
+
+Tudo que mantenho aberto, pronto pra usar:
+
+| Repo | O que faz |
+|------|-----------|
+| 📸 **[krit](https://github.com/leonardocandiani/krit)** | Screenshot e anotação nativos pra macOS: captura, anota, grava e copia num atalho só. Swift/AppKit, auto-update via Sparkle |
+| 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
+| 📝 **[scratchmate](https://github.com/leonardocandiani/scratchmate)** | Scratchpad programável e efêmero pra devs no macOS |
+| 🚌 **[bgent](https://github.com/leonardocandiani/bgent)** | Bus de comunicação entre sessões background do Claude Code: elas se registram, trocam mensagens e coordenam trabalho |
+| ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
+| 🚪 **[tollgate](https://github.com/leonardocandiani/tollgate)** | OpenRouter self-hostable pra revendedores: multi-tenant e OpenAI-compatible |
+| 🔮 **[glassmith](https://github.com/leonardocandiani/glassmith)** | Vidro de verdade pra web: refração óptica, aberração cromática e fallbacks honestos cross-browser |
+| 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
 
 <br>
 
