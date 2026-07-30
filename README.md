@@ -48,6 +48,7 @@ Os destaques do que estou tocando agora:
 - 📸 **[KRIT](https://github.com/leonardocandiani/krit)** ⭐ **OPEN SOURCE**: ferramenta nativa de screenshot e anotação pra macOS. Captura, anota, grava e copia num atalho só. Swift/AppKit puro, auto-update via Sparkle
 - 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
 - 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp — boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
+- 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** ⭐ **OPEN SOURCE**: audita e enxuga o config do Claude Code por context engineering, e mostra o ganho em horas de trabalho recuperadas, não em dólar
 - 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
 - 🛡️ **[Cluster Proteauto](#cluster-proteauto)**: proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
 - 💬 **SegsClaw**: multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
@@ -72,6 +73,7 @@ Tudo que mantenho aberto, pronto pra usar:
 | 🚪 **[tollgate](https://github.com/leonardocandiani/tollgate)** | OpenRouter self-hostable pra revendedores: multi-tenant e OpenAI-compatible |
 | 🔮 **[glassmith](https://github.com/leonardocandiani/glassmith)** | Vidro de verdade pra web: refração óptica, aberração cromática e fallbacks honestos cross-browser |
 | 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
+| 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** | Audita e enxuga o config do Claude Code (CLAUDE.md, rules, references) por context engineering. Mede o ganho em horas de trabalho recuperadas dentro do limite de sessão e semanal, migra IDs de modelo antigos. Zero dependência, dry-run por padrão, relatório em PT/EN/ES |
 
 <br>
 
