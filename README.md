@@ -47,7 +47,10 @@ Os destaques do que estou tocando agora:
 
 - 📸 **[KRIT](https://github.com/leonardocandiani/krit)** ⭐ **OPEN SOURCE**: ferramenta nativa de screenshot e anotação pra macOS. Captura, anota, grava e copia num atalho só. Swift/AppKit puro, auto-update via Sparkle
 - 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
-- 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp — boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
+- 👀 **[LooksRight](https://github.com/leonardocandiani/looksright)** ⭐ **OPEN SOURCE**: seu agente diz que a página ficou pronta; o LooksRight abre num Chrome de verdade e olha. 12 checagens determinísticas de UI por rota, viewport e tema, sem baseline de imagem, exit 1 quebra o CI
+- 🤫 **[tacet](https://github.com/leonardocandiani/tacet)** ⭐ **OPEN SOURCE**: agente self-hosted que entra na reunião, escuta tudo, só fala quando chamado e entrega a ata. Sete portões em código decidem se ele pode falar, o LLM não vota
+- 📝 **[ScratchMate](https://github.com/leonardocandiani/scratchmate)** ⭐ **OPEN SOURCE**: scratchpad programável e efêmero pra devs no macOS. Hotkey global, comandos `::`, preview ao vivo, Liquid Glass
+- 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
 - 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** ⭐ **OPEN SOURCE**: audita e enxuga o config do Claude Code por context engineering, e mostra o ganho em horas de trabalho recuperadas, não em dólar
 - 📲 **[shortcuts-apple](https://github.com/leonardocandiani/shortcuts-apple)** ⭐ **OPEN SOURCE**: gera, assina e entrega Apple Shortcuts a partir de um JSON. Resolve as duas falhas que ninguém documenta: o iOS recusa shortcut sem assinatura, e um identificador errado só quebra no meio da execução
 - 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
@@ -68,6 +71,8 @@ Tudo que mantenho aberto, pronto pra usar:
 |------|-----------|
 | 📸 **[krit](https://github.com/leonardocandiani/krit)** | Screenshot e anotação nativos pra macOS: captura, anota, grava e copia num atalho só. Swift/AppKit, auto-update via Sparkle |
 | 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
+| 👀 **[looksright](https://github.com/leonardocandiani/looksright)** | Abre a página num Chrome de verdade e diz o que quebrou: 12 checagens de UI por rota, viewport e tema, sem baseline de imagem. Exit 1 quebra o CI |
+| 🤫 **[tacet](https://github.com/leonardocandiani/tacet)** | Agente de reunião self-hosted, mudo por construção: escuta tudo, fala só quando chamado e arquiva a ata em tempo real |
 | 📝 **[scratchmate](https://github.com/leonardocandiani/scratchmate)** | Scratchpad programável e efêmero pra devs no macOS |
 | 🚌 **[bgent](https://github.com/leonardocandiani/bgent)** | Bus de comunicação entre sessões background do Claude Code: elas se registram, trocam mensagens e coordenam trabalho |
 | ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
