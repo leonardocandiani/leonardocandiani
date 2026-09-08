@@ -78,6 +78,7 @@ Tudo que mantenho aberto, pronto pra usar:
 | ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
 | 🚪 **[tollgate](https://github.com/leonardocandiani/tollgate)** | OpenRouter self-hostable pra revendedores: multi-tenant e OpenAI-compatible |
 | 🔮 **[glassmith](https://github.com/leonardocandiani/glassmith)** | Vidro de verdade pra web: refração óptica, aberração cromática e fallbacks honestos cross-browser |
+| 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** | Rede de neurônios conectados dentro de um cérebro anatômico de verdade: os nós nascem em 52 sulcos reais extraídos de uma ilustração de domínio público. Canvas 2D, zero dependência, 25KB |
 | 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
 | 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** | Audita e enxuga o config do Claude Code (CLAUDE.md, rules, references) por context engineering. Mede o ganho em horas de trabalho recuperadas dentro do limite de sessão e semanal, migra IDs de modelo antigos. Zero dependência, dry-run por padrão, relatório em PT/EN/ES |
 | 📲 **[shortcuts-apple](https://github.com/leonardocandiani/shortcuts-apple)** | Skill Claude Code e CLI que monta, assina e entrega arquivos `.shortcut` da Apple a partir de uma spec JSON. Assinatura obrigatória e validação de identificador de ação resolvidas, que são as duas armadilhas sem documentação |
