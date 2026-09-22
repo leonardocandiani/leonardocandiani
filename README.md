@@ -82,6 +82,7 @@ Tudo que mantenho aberto, pronto pra usar:
 | 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
 | 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** | Audita e enxuga o config do Claude Code (CLAUDE.md, rules, references) por context engineering. Mede o ganho em horas de trabalho recuperadas dentro do limite de sessão e semanal, migra IDs de modelo antigos. Zero dependência, dry-run por padrão, relatório em PT/EN/ES |
 | 📲 **[shortcuts-apple](https://github.com/leonardocandiani/shortcuts-apple)** | Skill Claude Code e CLI que monta, assina e entrega arquivos `.shortcut` da Apple a partir de uma spec JSON. Assinatura obrigatória e validação de identificador de ação resolvidas, que são as duas armadilhas sem documentação |
+| 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** | Hook do Claude Code que impede credencial de sair da sessão: lembra toda key que vê só pelo hash, cópias em variável e arquivo incluídas, e nega o envio por curl, commit, MCP e arquivo rastreado. 53 formatos, zero dependência, 8 ms por chamada |
 
 <br>
 
