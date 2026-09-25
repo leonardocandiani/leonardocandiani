@@ -45,14 +45,17 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 Os destaques do que estou tocando agora:
 
-- 📸 **[KRIT](https://github.com/leonardocandiani/krit)** ⭐ **OPEN SOURCE**: ferramenta nativa de screenshot e anotação pra macOS. Captura, anota, grava e copia num atalho só. Swift/AppKit puro, auto-update via Sparkle
-- 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
+- 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** ⭐ **OPEN SOURCE**: hook do Claude Code com cofre local. Pega toda credencial que entra na sessão, guarda com nome e barra a saída por curl, commit, MCP e arquivo. Zero dependência
+- ✅ **[whatsapp-utility-templates](https://github.com/leonardocandiani/whatsapp-utility-templates)** ⭐ **OPEN SOURCE**: escreve, confere, submete e acompanha templates do WhatsApp Cloud API que a Meta aprova como UTILITY, e mantém eles lá. Python só com biblioteca padrão
+- 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** ⭐ **OPEN SOURCE**: rede de neurônios dentro de um cérebro anatômico de verdade, com os nós em 52 sulcos reais. Canvas 2D, zero dependência, 25KB
 - 👀 **[LooksRight](https://github.com/leonardocandiani/looksright)** ⭐ **OPEN SOURCE**: seu agente diz que a página ficou pronta; o LooksRight abre num Chrome de verdade e olha. 12 checagens determinísticas de UI por rota, viewport e tema, sem baseline de imagem, exit 1 quebra o CI
 - 🤫 **[tacet](https://github.com/leonardocandiani/tacet)** ⭐ **OPEN SOURCE**: agente self-hosted que entra na reunião, escuta tudo, só fala quando chamado e entrega a ata. Sete portões em código decidem se ele pode falar, o LLM não vota
-- 📝 **[ScratchMate](https://github.com/leonardocandiani/scratchmate)** ⭐ **OPEN SOURCE**: scratchpad programável e efêmero pra devs no macOS. Hotkey global, comandos `::`, preview ao vivo, Liquid Glass
-- 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
 - 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** ⭐ **OPEN SOURCE**: audita e enxuga o config do Claude Code por context engineering, e mostra o ganho em horas de trabalho recuperadas, não em dólar
 - 📲 **[shortcuts-apple](https://github.com/leonardocandiani/shortcuts-apple)** ⭐ **OPEN SOURCE**: gera, assina e entrega Apple Shortcuts a partir de um JSON. Resolve as duas falhas que ninguém documenta: o iOS recusa shortcut sem assinatura, e um identificador errado só quebra no meio da execução
+- 📝 **[ScratchMate](https://github.com/leonardocandiani/scratchmate)** ⭐ **OPEN SOURCE**: scratchpad programável e efêmero pra devs no macOS. Hotkey global, comandos `::`, preview ao vivo, Liquid Glass
+- 💬 **[wascii](https://github.com/leonardocandiani/wascii)** ⭐ **OPEN SOURCE**: a arte de ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham de verdade no celular. Skill Claude + referência
+- 📸 **[KRIT](https://github.com/leonardocandiani/krit)** ⭐ **OPEN SOURCE**: ferramenta nativa de screenshot e anotação pra macOS. Captura, anota, grava e copia num atalho só. Swift/AppKit puro, auto-update via Sparkle
+- 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** ⭐ **OPEN SOURCE**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git
 - 🦾 **SixClaw**: plataforma de orquestração de agentes que liga IA a fluxos de venda e atendimento
 - 🛡️ **[Cluster Proteauto](#cluster-proteauto)**: proteção veicular operada ponta a ponta por IA (CRM, cotação, vistoria, SDR)
 - 💬 **SegsClaw**: multi-agent platform WhatsApp/Telegram que opera a SegSmart e a Proteauto
@@ -69,20 +72,21 @@ Tudo que mantenho aberto, pronto pra usar:
 
 | Repo | O que faz |
 |------|-----------|
-| 📸 **[krit](https://github.com/leonardocandiani/krit)** | Screenshot e anotação nativos pra macOS: captura, anota, grava e copia num atalho só. Swift/AppKit, auto-update via Sparkle |
-| 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
+| 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** | Hook do Claude Code com cofre local: cada credencial que entra na sessão é guardada com nome no `.env` ou no cofre, e fica barrada na saída por curl, commit, MCP e arquivo rastreado. Zero dependência |
+| ✅ **[whatsapp-utility-templates](https://github.com/leonardocandiani/whatsapp-utility-templates)** | Escreve, confere, submete e acompanha templates do WhatsApp Cloud API que a Meta aprova como UTILITY, e mantém eles nessa categoria. Skill Claude Code, Python só com biblioteca padrão |
+| 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** | Rede de neurônios conectados dentro de um cérebro anatômico de verdade: os nós nascem em 52 sulcos reais extraídos de uma ilustração de domínio público. Canvas 2D, zero dependência, 25KB |
 | 👀 **[looksright](https://github.com/leonardocandiani/looksright)** | Abre a página num Chrome de verdade e diz o que quebrou: 12 checagens de UI por rota, viewport e tema, sem baseline de imagem. Exit 1 quebra o CI |
 | 🤫 **[tacet](https://github.com/leonardocandiani/tacet)** | Agente de reunião self-hosted, mudo por construção: escuta tudo, fala só quando chamado e arquiva a ata em tempo real |
-| 📝 **[scratchmate](https://github.com/leonardocandiani/scratchmate)** | Scratchpad programável e efêmero pra devs no macOS |
-| 🚌 **[bgent](https://github.com/leonardocandiani/bgent)** | Bus de comunicação entre sessões background do Claude Code: elas se registram, trocam mensagens e coordenam trabalho |
-| ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
-| 🚪 **[tollgate](https://github.com/leonardocandiani/tollgate)** | OpenRouter self-hostable pra revendedores: multi-tenant e OpenAI-compatible |
-| 🔮 **[glassmith](https://github.com/leonardocandiani/glassmith)** | Vidro de verdade pra web: refração óptica, aberração cromática e fallbacks honestos cross-browser |
-| 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** | Rede de neurônios conectados dentro de um cérebro anatômico de verdade: os nós nascem em 52 sulcos reais extraídos de uma ilustração de domínio público. Canvas 2D, zero dependência, 25KB |
-| 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
 | 🩺 **[claude-optimizer](https://github.com/leonardocandiani/claude-optimizer)** | Audita e enxuga o config do Claude Code (CLAUDE.md, rules, references) por context engineering. Mede o ganho em horas de trabalho recuperadas dentro do limite de sessão e semanal, migra IDs de modelo antigos. Zero dependência, dry-run por padrão, relatório em PT/EN/ES |
 | 📲 **[shortcuts-apple](https://github.com/leonardocandiani/shortcuts-apple)** | Skill Claude Code e CLI que monta, assina e entrega arquivos `.shortcut` da Apple a partir de uma spec JSON. Assinatura obrigatória e validação de identificador de ação resolvidas, que são as duas armadilhas sem documentação |
-| 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** | Hook do Claude Code que impede credencial de sair da sessão: lembra toda key que vê só pelo hash, cópias em variável e arquivo incluídas, e nega o envio por curl, commit, MCP e arquivo rastreado. 53 formatos, zero dependência, 8 ms por chamada |
+| 📝 **[scratchmate](https://github.com/leonardocandiani/scratchmate)** | Scratchpad programável e efêmero pra devs no macOS |
+| 🚌 **[bgent](https://github.com/leonardocandiani/bgent)** | Bus de comunicação entre sessões background do Claude Code: elas se registram, trocam mensagens e coordenam trabalho |
+| 🚪 **[tollgate](https://github.com/leonardocandiani/tollgate)** | OpenRouter self-hostable pra revendedores: multi-tenant e OpenAI-compatible |
+| 🔮 **[glassmith](https://github.com/leonardocandiani/glassmith)** | Vidro de verdade pra web: refração óptica, aberração cromática e fallbacks honestos cross-browser |
+| 💬 **[wascii](https://github.com/leonardocandiani/wascii)** | A arte do ASCII no WhatsApp: boxes, barras, charts e leaderboards que alinham no celular |
+| 📸 **[krit](https://github.com/leonardocandiani/krit)** | Screenshot e anotação nativos pra macOS: captura, anota, grava e copia num atalho só. Swift/AppKit, auto-update via Sparkle |
+| ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
+| 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
 
 <br>
 
