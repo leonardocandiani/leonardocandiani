@@ -45,6 +45,7 @@ conteúdo:    youtube.com/@oleonardocandiani
 
 Os destaques do que estou tocando agora:
 
+- 🤝 **[hormozi-skill](https://github.com/leonardocandiani/hormozi-skill)** ⭐ **OPEN SOURCE**: revisa proposta, copy, anúncio e conversa de WhatsApp pelo método Hormozi e devolve as três mudanças que mais aumentam a chance de fechar, com o trecho citado e a reescrita pronta. Skill Claude Code com rubricas e 3 scripts em Python puro
 - 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** ⭐ **OPEN SOURCE**: hook do Claude Code com cofre local. Pega toda credencial que entra na sessão, guarda com nome e barra a saída por curl, commit, MCP e arquivo. Zero dependência
 - ✅ **[whatsapp-utility-templates](https://github.com/leonardocandiani/whatsapp-utility-templates)** ⭐ **OPEN SOURCE**: escreve, confere, submete e acompanha templates do WhatsApp Cloud API que a Meta aprova como UTILITY, e mantém eles lá. Python só com biblioteca padrão
 - 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** ⭐ **OPEN SOURCE**: rede de neurônios dentro de um cérebro anatômico de verdade, com os nós em 52 sulcos reais. Canvas 2D, zero dependência, 25KB
@@ -72,6 +73,7 @@ Tudo que mantenho aberto, pronto pra usar:
 
 | Repo | O que faz |
 |------|-----------|
+| 🤝 **[hormozi-skill](https://github.com/leonardocandiani/hormozi-skill)** | Skill Claude Code que aplica o método de vendas do Hormozi em proposta, copy, anúncio, conversa de WhatsApp e funil: nota por rubrica, trecho citado e reescrita pronta, com as adaptações para B2B, CDC, Pix e WhatsApp |
 | 🔐 **[keyfence](https://github.com/leonardocandiani/keyfence)** | Hook do Claude Code com cofre local: cada credencial que entra na sessão é guardada com nome no `.env` ou no cofre, e fica barrada na saída por curl, commit, MCP e arquivo rastreado. Zero dependência |
 | ✅ **[whatsapp-utility-templates](https://github.com/leonardocandiani/whatsapp-utility-templates)** | Escreve, confere, submete e acompanha templates do WhatsApp Cloud API que a Meta aprova como UTILITY, e mantém eles nessa categoria. Skill Claude Code, Python só com biblioteca padrão |
 | 🧠 **[neurograph](https://github.com/leonardocandiani/neurograph)** | Rede de neurônios conectados dentro de um cérebro anatômico de verdade: os nós nascem em 52 sulcos reais extraídos de uma ilustração de domínio público. Canvas 2D, zero dependência, 25KB |
