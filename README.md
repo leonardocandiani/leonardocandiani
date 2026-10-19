@@ -89,6 +89,7 @@ Tudo que mantenho aberto, pronto pra usar:
 | 📸 **[krit](https://github.com/leonardocandiani/krit)** | Screenshot e anotação nativos pra macOS: captura, anota, grava e copia num atalho só. Swift/AppKit, auto-update via Sparkle |
 | ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
 | 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
+| ⚖️ **[leis](https://github.com/leonardocandiani/leis)** | Plugin Claude Code que faz as leis de trabalho valerem: cada lei com sigla, teste de sim ou não, hook que registra a quebra e medição por lei. Modo observar ou bloquear, registro só na sua máquina |
 
 <br>
 
