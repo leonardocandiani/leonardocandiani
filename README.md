@@ -90,6 +90,7 @@ Tudo que mantenho aberto, pronto pra usar:
 | ✨ **[glint](https://github.com/leonardocandiani/glint)** | Status line liquid-glass pro Claude Code CLI |
 | 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)** | Plugin Claude Code que implanta e mantém arquitetura de qualidade em qualquer repo git |
 | ⚖️ **[leis](https://github.com/leonardocandiani/leis)** | Plugin Claude Code que faz as leis de trabalho valerem: cada lei com sigla, teste de sim ou não, hook que registra a quebra e medição por lei. Modo observar ou bloquear, registro só na sua máquina |
+| 📱 **[pwa-nativo](https://github.com/leonardocandiani/pwa-nativo)** | Plugin Claude Code que leva um app web a PWA com cara de app nativo no celular e no desktop: cria, converte, audita, notifica e otimiza. Auditor de 32 regras com arquivo e linha, sem rede e sem dependência |
 
 <br>
 
